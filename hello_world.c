@@ -2,6 +2,6 @@
 
 int		main()
 {
-	printf("hello world\n");
+	printf("hello OpenClassRoom\n");
 	return 0;
 }
